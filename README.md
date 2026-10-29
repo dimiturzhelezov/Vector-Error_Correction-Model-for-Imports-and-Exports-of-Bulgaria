@@ -84,7 +84,7 @@ install.packages(c("tidyverse", "zoo", "urca", "vars", "tsDyn", "lmtest"))
 
 ## Data
 
-Monthly exports and imports of goods of Bulgaria in million EUR, January 2020 – December 2024. Source: `[fill in: e.g. NSI or BNB]`.
+Monthly exports and imports of goods of Bulgaria in million EUR, January 2020 – December 2024. Source: National Statistical Institute.
 
 ## Author
 
